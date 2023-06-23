@@ -1,4 +1,4 @@
-# CRUD-html-bootstrap-jquery
+# CRUD-Html-Bootstrap-Jquery con php
 
 contiene el mantenimiento CRUD de tabla categorias en una base de datos de empresa
 esta construido con las tecnologias BOOTSTRAP para CSS stylesheet HOJAS DE ESTILO
